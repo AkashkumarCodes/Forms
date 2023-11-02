@@ -43,19 +43,6 @@ Before you start using the User Login Script, make sure you have the following p
 - A MySQL database for storing user login information.
 - An HTML login form that submits data to the User Login Script.
 
-## Table of Contents
-
-- [Introduction](Login and Signup Form)
-- [HTML Pages](#html-pages)
-  - [Login Page](#login-page)
-  - [Registration Page](#registration-page)
-- [PHP Scripts](#php-scripts)
-  - [User Registration Script](#user-registration-script)
-  - [User Login Script](#user-login-script)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## HTML Pages
 
