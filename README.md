@@ -81,7 +81,7 @@ The User Registration Script is a critical component of our application, designe
 
 ?>
 
-
+```
 # User Login Script
 
 The User Login Script is designed to handle user login and authentication. It validates user login credentials against a database and provides login feedback.
