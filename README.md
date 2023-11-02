@@ -1,6 +1,6 @@
 # Login and Signup Form
 
-Welcome to the [Project Name] repository! This project consists of two HTML pages and two PHP scripts, designed for [briefly describe the purpose of the project]. Whether you're a developer, contributor, or just curious, you'll find all the information you need to get started and contribute to this project right here.
+Welcome to theLogin and Signup Form repository! This project consists of two HTML pages and two PHP scripts, designed for [briefly describe the purpose of the project]. Whether you're a developer, contributor, or just curious, you'll find all the information you need to get started and contribute to this project right here.
 
 
 
