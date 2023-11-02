@@ -1,3 +1,8 @@
+Welcome to the Login and Signup Form repository! This project consists of two HTML pages and two PHP scripts designed to enable user authentication and registration. Whether you're a developer, contributor, or simply interested in this project, you'll discover all the resources and guidance you need to engage with this project effectively.
+
+
+
+
 # Login and Signup Form
 
 Welcome to the Login and Signup Form repository! This project consists of two HTML pages and two PHP scripts designed to enable user authentication and registration. Whether you're a developer, contributor, or simply interested in this project, you'll discover all the resources and guidance you need to engage with this project effectively.
