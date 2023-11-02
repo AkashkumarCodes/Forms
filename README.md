@@ -2,6 +2,16 @@
 
 Welcome to the [Project Name] repository! This project consists of two HTML pages and two PHP scripts, designed for [briefly describe the purpose of the project]. Whether you're a developer, contributor, or just curious, you'll find all the information you need to get started and contribute to this project right here.
 
+
+
+## Getting Started
+
+Before you start using the User Login Script, make sure you have the following prerequisites:
+
+- PHP installed on your web server.
+- A MySQL database for storing user login information.
+- An HTML login form that submits data to the User Login Script.
+
 ## Table of Contents
 
 - [Introduction](Login and Signup Form)
@@ -85,15 +95,6 @@ The User Registration Script is a critical component of our application, designe
 # User Login Script
 
 The User Login Script is designed to handle user login and authentication. It validates user login credentials against a database and provides login feedback.
-
-## Getting Started
-
-Before you start using the User Login Script, make sure you have the following prerequisites:
-
-- PHP installed on your web server.
-- A MySQL database for storing user login information.
-- An HTML login form that submits data to the User Login Script.
-
 ## Usage
 
 To use the User Login Script, follow these steps:
